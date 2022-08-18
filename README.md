@@ -1,2 +1,0 @@
-# BootcampReactNative
-React Native App
